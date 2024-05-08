@@ -1,3 +1,19 @@
+![Captura de Tela (208)](https://github.com/PauloAquarius0299/react-quiz-app/assets/114706743/00104b0e-8539-41ce-8ec9-99c5518b4f88)
+# 🔣 React Quiz App 
+Criei um jogo de perguntas (em ingles) usando React, TypeScript, Styled-Components e a API da Trivia
+## Indrodução 
+Interface foi estilizada de forma simples tanto para mobile e desktop, com a api configurada no projeto criei componentes de retorno, nas resposas e perguntas que atende as funções da plataforma a permitindo ser muito dinamica e funcional, a propriedade 'dangerouslySetInnerHTML' eu utilizei para renderizar o HTML da pergunta, permitindo a renderização de HTML dentro da pergunta.
+### Pre-Requisitos 
+* Instalação do React, com Typescript e styled-components
+* Integração da api Trivia
+´´´
+https://opentdb.com/
+´´´
+### Ferramentas 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
